@@ -1,0 +1,18 @@
+{
+  "@vite/client": {
+    "prefetch": true,
+    "isEntry": true,
+    "file": "@vite/client",
+    "css": [],
+    "module": true,
+    "resourceType": "script"
+  },
+  "/home/project/node_modules/.pnpm/nuxt@3.16.2_eslint@9.25.1_typescript@5.8.3_vite@6.3.2/node_modules/nuxt/dist/app/entry.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "isEntry": true,
+    "file": "/home/project/node_modules/.pnpm/nuxt@3.16.2_eslint@9.25.1_typescript@5.8.3_vite@6.3.2/node_modules/nuxt/dist/app/entry.js"
+  }
+}
